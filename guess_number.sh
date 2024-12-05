@@ -19,4 +19,3 @@
       echo "You lose! The correct number was $rand_number."
     fi
   }
-
